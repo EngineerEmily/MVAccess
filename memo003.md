@@ -39,8 +39,9 @@ The first meeting of the Rental Housing Committee for thThe express purpose of t
 | Before Feb. 1, 1995 | Yes | Yes | Yes |  
 | Between Feb. 1, 1995 – April 5, 2017 | No | Yes | No |  
 | After April 5, 2017 | No | No | No |  
+| After April 5, 2017 | No | No | No |  
 
-Exempt: 
+Exempt:
 * Single Family Homes 
 * Condominiums 
 * Companion Units 

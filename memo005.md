@@ -14,7 +14,8 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-        
+       
+	   
 
 ## City of Mountain View
 ## Memorandum
@@ -25,33 +26,20 @@ function googleTranslateElementInit() {
 
 ***
 
-# BACKGROUND:    
-The  CSFRA  Rental  Housing  Committee  is  charged  with  a  number  of  tasks,  including   but   not   limited   to   establishing   rules   and   regulations   for   the   enforcement  of  the  CSFRA,  determining  the  Annual  General  Adjustment  and  announcing  it  by  June  30th  of  each  year,  appointing  hearing  officers  and  establishing a budget and Rental Housing Fee.
+# INTRODUCTION AND BACKGROUND  
+In  the  weeks  after  adoption  of  the  CSFRA  on  November  8,  2016,  staff  implemented  an  ambitious  outreach  plan  consisting  of  landlord  and  tenant  informational  postcards; community  workshops;   webpage  updates  www.mountainview.gov/rent  stabilization, social  media  and  MyMV  emails;   posting  of  FAQs  and  PPT  Presentations  and  a  Rental  Housing hotline (email, phone, walk-in).Since the court issued the order denying the preliminary injunction on April 5, 2017 and the  CSFRA  became effective,  staff  has  sent  out  letters  to  all  multi-family  apartment  owners/managers   and   tenants   to   provide   an   update   on   their   CSFRA rights   and   obligations. The  website  was  updated  with  key  elements  of  the  CSFRA;  and a   template letter   was   posted   on   the   website   to   help   landlords   and   tenants   understand   and communicate the requirements of the roll back provisions of the CSFRA. Workshops have been planned for May to provide landlord and tenant education.
+
 
 # ANALYSIS:  
-Staff proposes  an  Initial  Work  Plan  which  outlines  a  list  of  tasks  or  issues  staff will bring forward in the coming months to the Rental Housing Committee for discussion, review,  consideration  and  possible  adoption  in  order  to  implement  the Community Stabilization and Fair Rent Act.
+Community Outreach will be essential for the success of the CSFRA program. The goal of community  outreach  is  to  disseminate  information  and  increase  awareness  to  landlords and  tenants,  augmenting  their  knowledge  and  skills,  resulting  in  increased compliance with the CSFRA.  Outreach can consist of a wide range of activities:
 
-# REQUESTED DIRECTION:  
-Staff  seeks  input  from  the  RHC  on  the  work  plan,  both  in  terms  of  the  content  and   the   timeline.   Staff   would   also   emphasize   that the   workload   for   the   Committee  is  significant  and  the  intent  of  the  draft  work plan  is  to  provide  a  blueprint to guide the work of the Committee. It remains to be seen whether the proposed  work  plan  is  accurate  in  terms  of  the  number  of  meetings  or  amount  of time allocated to each work plan item or needs to be adjusted accordingly. 
+1.Increase awareness through distribution of information: develop collateral materials and distribution plan and outreach through internet and social media. Partnering with other organizations such as local churches and organizations (e.g. CSA, Work Center, Clinics, CHAC, Schools, Police, Senior Center, CAA) will increase outreach efforts.Brochures at  Library,  Police,  City  Hall,  Community  Center,  CSA,  Senior  Center,  Work Center, CHAC, CAA, schools, local churches and coffee shops Messages for social media (Nextdoor Neighbor; CNC)Updates website: mountainview.gov/rentstabilizationMailings: landlords/tenants CSFRA in effect, rent increase announcement.2.Community   participation   in   educational   and   public   input   meetings:    organize ongoing  workshops,  walk-in  clinics  and  consultations  in  centers  where  residents  already   gather   for   other   activities   (city   hall,   CSA,   senior   center,   school   PTAs,   community center), and a Rental Housing helpline (phone, email and walk-in).Scheduled workshops:May 15, 2017 & May 25, 2017 6-8 pmTenant WorkshopsMay 16, 2017 10-12 noon & May 22, 2017 6-8 pmLandlord WorkshopsWalk-in Clinics:Once a week (Thursdays) City Hall Once a week CSA/Community CenterOnce a month (4th Tuesday of month) MV Senior centerConsultations:Mo-Fr 9am-4pm at Project Sentinel (email, phone, walk-in)3.Resources:  Provide  online  availability  of  template  notices/letters  for  use  by  tenants  and  landlords  as  well  as  an  online  property  information  tool for  research into  “year  built”  of  multi-family  apartments.  Create  a  list  of  organizations providing  legal resources.Templates: Base Rent letterOnline  tool:  Address  look-up  to  determine  if  rental  unit  is  subject  to  the  CSFRALegal Help: List of organizations on website
 
-| Date | Task | Description | Status | Proposed Approach: | Proposed Prep dates | 
-| --- | --- | --- | --- | --- | --- |  
-| Pre- Mtg. | Receive Brown Act Training | Committee members will be updated on Brown Act, Political Reform Act and Public Records Act |   | CAO to  provide training |  
-| 5/8 | Elect Chairperson and Vice-Chairperson | Committee members to select a Chairperson and Vice-Chairperson |   |  |  
-| 5/8 | Adopt Meeting Schedule | Set the meeting calendar for the remainder of 2017 |    | Staff to provide Draft Calendar |    |  
-| 5/8 | Review CSFRA and role of RHC and consider public input process |  Discuss key elements of CSFRA, role of RHC and Q&A session; Consider options for public input process |   | Staff to present Key Elements CSFRA; Staff to present options for public input process |   | 
-| 5/8 | Adopt Work Plan | Determine the work plan for coming Committee meetings |   | Staff to provide Draft Work plan  |   |  
-| 5/8 | Community Outreach & Education Activities | Community Education is critical for tenants, landlords, and community members. This includes collateral and community workshops for both tenants and landlords |   | Staff to review current activities; Request direction from RHC |   | 
-| 5/22 | Adopt Annual General Adjustment for 2017;Consider AGA for 2016 | No later than June 30 of each year the Committee sets the annual general adjustment (AGA), which shall be effective as of September 1 of that year.  |    | Staff to present draft resolution for AGA 2017; Staff to present recommendations for AGA 2016 |    | 
-| 5/22 | Overview Rules and Regulations*Rules of Conduct,*Fair Return Standard, *Fair Return Process, *Petition Process | Review RR for Rules of Conduct,Determine standard for Fair Return,Review RRs for the Fair Return Process Review RRs for the Individual Upward and Downward Adjustment Petition Process |   | Staff to present overview of    rules of conduct, fair return standards, Fair Return Process and Petition Process |     |   
-| 6/8 | Review RRs (see previous) Consider Hearing Officer Process | To establish a pool of hearing officers, Committee members will decide on criteria for,  remuneration of and method of hiring Hearing Officers |   | Staff to provide:Draft Criteria for HODraft Options for remuneration and hiring HO |   | 
-| 6/19 | Review RRs (see previous)Review Infrastructure: Staffing & IT | Establishing infrastructure needed to conduct essential CSFRA administrative and management functions:- Admin- Legal- IT - Finance - Code Enforcement | City currently employs interim staffing of 2 FTEs to implement CSFRA and uses City resources | Staff to provide Draft Staffing PlanStaff to provide IT Support Plan |   | 
-| 7/10 | Review RRs (see previous) Registry, IT | Enrollment in the Registry•Online process for forms and notices | Draft options | Staff shall continue working to develop processes for RHC consideration. |   | 
-| 7/24 | Review RRs (see previous)Train in Hearing  and Appeal Process | Determine training for RHC members to understand hearing process and appeal process |    | Staff will provide  presentation |   | 
-| 8/28 | FY 17-18 Budget and Fees | Discussion of the annualbudget for the ensuing fiscal year. Discussion of annual registration fees for reasonable and necessary expenses | An interim budget for 2ndhalf of FY16-17 has been approved by CC. | Staff shall prepare a draft budget and fee structure forthe RHC’s consideration |   | 
-| 10/9 | FY 17-18 Budget and Fees | Adopt budget and fees for FY 17-18. |   |   |   |   
+4.Language remains a barrier to effective communication. Providing outreach materialsin Spanish and Mandarin is a priority. Outreach meetings can be staffed with Spanish and Mandarin translators. Materials can be translated into these languages.To  date  letters,  flyers  and  templates  have  been  translated  in  Spanish  and Mandarin.Translators will be present at scheduled workshops.Case Manager for clinics and consultation speaks Spanish.
 
 
+# STAFF RECOMMENDATION:  
+Approve the ongoing Community Outreach activities and/or provide further direction to staff to implement additional/different outreach efforts.
 
 ***
 Last updated on 6/15/2017  
