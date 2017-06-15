@@ -23,16 +23,20 @@ function googleTranslateElementInit() {
 
 
 ***
+  
+**bold** indicates who made the motion  
+*italics* indicates who made the second  
 
-| Motion | Honey | Ortiz | Grunewald | Means | Ramos |  
-| --- | --- | --- | --- | --- | --- |  
-| To nominate Committee Member Means as the Chair. | **Yes** | No | No | *Yes* | No |  
-| To nominate Committee Member Honey as the Chair. | Yes | No | *Yes* | **Yes** | Yes |  
-| To nominate Committee Member Ortiz as the Vice Chair. | Yes | *Yes* | Yes | Yes | **Yes** |  
-| To approve term of Chairperson and Vice Chairperson for one full year, running from May 1, 2017 - May 1, 2018 | Yes | Yes | *Yes* | **Yes** | Yes |  
-| To approve a Resolution of the Rental Housing Committee of Mountain View establishing a meeting Schedule for the Period of May through December 2017 | Yes | **Yes** | *Yes* | Yes | Yes |  
-| To approve a RHC work plan both in terms of content and time line. | **Yes** | Yes | Yes | *Yes* | Yes |  
-| To approve the ongoing Community Outreach and Education Plan and/or provide further direction to staff to implement additional/different outreach efforts | **Yes** | Yes | Yes | *Yes* | Yes |  
+
+| Date | Motion | Honey | Ortiz | Grunewald | Means | Ramos |  
+| --- | --- | --- | --- | --- | --- | --- |  
+| 5/8 | To nominate Committee Member Means as the Chair. | **Yes** | No | No | *Yes* | No |  
+| 5/8 | To nominate Committee Member Honey as the Chair. | Yes | No | *Yes* | **Yes** | Yes |  
+| 5/8 | To nominate Committee Member Ortiz as the Vice Chair. | Yes | *Yes* | Yes | Yes | **Yes** |  
+| 5/8 | To approve term of Chairperson and Vice Chairperson for one full year, running from May 1, 2017 - May 1, 2018 | Yes | Yes | *Yes* | **Yes** | Yes |  
+| 5/8 | To approve a Resolution of the Rental Housing Committee of Mountain View establishing a meeting Schedule for the Period of May through December 2017 | Yes | **Yes** | *Yes* | Yes | Yes |  
+| 5/8 | To approve a RHC work plan both in terms of content and time line. | **Yes** | Yes | Yes | *Yes* | Yes |  
+| 5/8 | To approve the ongoing Community Outreach and Education Plan and/or provide further direction to staff to implement additional/different outreach efforts | **Yes** | Yes | Yes | *Yes* | Yes |  
 
 
 ***
