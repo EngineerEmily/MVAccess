@@ -33,7 +33,7 @@ The first meeting of the Rental Housing Committee for thThe express purpose of t
 3. Establishes a Rental Housing Committee to administer and enforce this program.  
 
 # What Rental Units are covered under the CSFRA:  
-| First Certificate of Occupancy | Rent Increases | Just Cause | Base Rent (Rent Roll Back) | 
+| First Certificate of Occupancy | Rent Increases | Just Cause | Base Rent (Rent Roll Back) |  
 | --- | --- | --- | --- |  
 | Before Feb. 1, 1995 | Yes | Yes | Yes |  
 | Between Feb. 1, 1995 – April 5, 2017 | No | Yes | No |  
