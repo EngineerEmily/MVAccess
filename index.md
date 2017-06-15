@@ -10,15 +10,15 @@
 </script>
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es,ru,tl,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-101098054-2'}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-        
+                
 
 ### Agendas / Staff Reports - Most recent decending
-[June 8, 2017](agenda06082017)  
-[May 22, 2017](agenda05222017)  
-[May 8, 2017](agenda05082017)  
+[June 8, 2017](agenda/06082017)  
+[May 22, 2017](agenda/05222017)  
+[May 8, 2017](agenda/05082017)  
 
 ### Upcoming Meetings
 Meetings are held at City Hall at 7pm  
