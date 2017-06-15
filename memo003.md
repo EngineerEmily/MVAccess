@@ -1,3 +1,21 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101098054-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+
 ## City of Mountain View
 ## Memorandum
 ### To: Rental Housing Committee
@@ -16,11 +34,11 @@ The first meeting of the Rental Housing Committee for thThe express purpose of t
 
 # What Rental Units are covered under the CSFRA:  
 | First Certificate of Occupancy | Rent Increases | Just Cause | Base Rent (Rent Roll Back) | 
-| --- | --- | --- | --- | 
+| --- | --- | --- | --- |  
 | Before Feb. 1, 1995 | Yes | Yes | Yes |  
-| Between Feb. 1, 1995 – April 5, 2017 | No | Yes | No | 
+| Between Feb. 1, 1995 – April 5, 2017 | No | Yes | No |  
 | After April 5, 2017 | No | No | No |  
-| Exempt:Single Family HomesCondominiumsCompanion UnitsDuplexesUnits in hotels, motels, etc. rented out for less than 30 daysUnits in hospitals, medical care facilities, dormitories, etc.Government or subsidized rental units | No | No | No |  
+| Exempt:Single Family Homes, Condominiums, Companion Units, Duplexes, Units in hotels, motels, etc., rented out for less than 30 days, Units in hospitals, medical care facilities, dormitories, etc., Government or subsidized rental units | No | No | No |  
 
 # Base Rent  
 Base  Rent  is  determined  as  the  rent  amount  in  effect  on  October  19,  2015.  If  the  tenancy  started  after  October  19,  2015  Base  Rent  is  the  initial  rent  amount  at  the  start  of  the  tenancy.  
@@ -86,5 +104,5 @@ Staff seeks direction from the Committee regarding its preferred public input pr
 
 
 ***
-Last updated on 6/14/2017  
+Last updated on 6/15/2017  
 Disclaimer: This is not the official site for information on Mountain View's Rental Housing Committee. It was merely copied from [Mountain View's Rental Housing Committee webpage](http://mountainview.gov/council/rental_housing_committee/default.asp). This site simply converts the pdfs into html to allow for a more accessible view.  
