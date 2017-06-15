@@ -1,0 +1,44 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101098054-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+       
+	   
+
+## City of Mountain View
+## Memorandum
+### To: Rental Housing Committee
+### From: Jannie Quinn, City Attorney & Anky van Deursen, Associate Planner
+### Subject: Annual General Adjustment 2017  
+### Date: May 22, 2017  
+
+***
+
+# INTRODUCTION AND BACKGROUND  
+The Community  Stabilization  and  Fair  Rent  Act  (CSFRA)provides  for  an  Annual General  Adjustment  (“AGA”)to  increase rent  for  existing  tenancies  based  on  the percentage  increase  in  the  Consumer  Price  Index  (for  All  Urban  Consumers,  SF-Oakland-San Jose Region (“CPI”)).  The Committee is required to announce the AGA no later than June 30 each year.  Per the CSFRA, the AGA shall be equal to 100 percent of the  percentage  increase  in  the  CPI  for  the  12-month  period  ending  as  of  March  2017.  However,the AGA shall not be less than two percent and not more than five percent.  
+
+The  Department  of  Labor  only  issues  CPI  for  All  Urban  Consumers,  SF-Oakland-San Jose Region every two months.For 2017, the CPI was issuedin February and April of 2017. Based  on  the  timeline  in  the  CSFRA,staff  recommends  using  these  indicesfrom February  2016  to  February  2017to  determine  the AGA.The CPI  increased  by  3.4 percent,and the increase falls within the adjustment allowed by the CSFRA.  
+
+The rent increases imposed pursuant to this adjustment may take effect on September 1, 2017.  Under State law, landlords are required to provide 30 days’ advance notice of a rent increase.  
+
+The  right  of  landlords  to  implement  the  AGA is  conditioned  on  compliance  with  the CSFRA. 
+
+# STAFF RECOMMENDATION  
+Adopt a Resolution  Announcingan  Annual  General  Rent  Adjustment  for  2017  of  3.4 Percent.
+
+
+***
+Last updated on 6/15/2017  
+Disclaimer: This is not the official site for information on Mountain View's Rental Housing Committee. It was merely copied from [Mountain View's Rental Housing Committee webpage](http://mountainview.gov/council/rental_housing_committee/default.asp). This site simply converts the pdfs into html to allow for a more accessible view.  
