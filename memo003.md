@@ -1,0 +1,90 @@
+## City of Mountain View
+## Memorandum
+### To: Rental Housing Committee
+### From: Anky van Deursen, Associate Planner  
+### Subject: Committee Meeting Schedule  
+### Date: May 4, 2017  
+
+***
+
+# Review of CSFRA and Role of Rental Housing Committee and consideration of a public input process of rulemaking
+The first meeting of the Rental Housing Committee for thThe express purpose of the CSFRA is to promote neighborhood and community stability and  healthy  housing  and  affordability  for  renters  in  the  City  of  Mountain  View  by controlling excessive rent increases and arbitrary evictions to the greatest extent allowable under   California   law,   while   ensuring   landlords   a   fair   and   reasonable   return   and   guaranteeing fair protections for renters, homeowners and businesses. The purpose of this agenda item is to provide an overview of the CSFRA and a preview of upcoming agenda items.e Community Stabilization and Fair Rent Act, is scheduled for Monday May 8, 2017 at 7:00 PM. Staff recommends the Rental Housing Committee establish its meeting schedule at the first meeting and recommends regular meetings take place on those Mondays listed below and the meetings will start at 7:00 PM. The following regular meeting dates are proposed for the Rental Housing Committee to convene from May to July 2017:
+
+# OVERVIEW OF THE CSFRA: 
+1. Establishes  Base  Rents  and  limits  annual  rent  increases  on  Covered  Rental  Units  and  introduces a petition system for individual rent adjustments. 2. Provides tenant protections through Just Cause Eviction regulations.  
+3. Establishes a Rental Housing Committee to administer and enforce this program.  
+
+# What Rental Units are covered under the CSFRA:  
+| First Certificate of Occupancy | Rent Increases | Just Cause | Base Rent (Rent Roll Back) | 
+| --- | --- | --- | --- | 
+| Before Feb. 1, 1995 | Yes | Yes | Yes |  
+| Between Feb. 1, 1995 – April 5, 2017 | No | Yes | No | 
+| After April 5, 2017 | No | No | No |  
+| Exempt:Single Family HomesCondominiumsCompanion UnitsDuplexesUnits in hotels, motels, etc. rented out for less than 30 daysUnits in hospitals, medical care facilities, dormitories, etc.Government or subsidized rental units | No | No | No |  
+
+# Base Rent  
+Base  Rent  is  determined  as  the  rent  amount  in  effect  on  October  19,  2015.  If  the  tenancy  started  after  October  19,  2015  Base  Rent  is  the  initial  rent  amount  at  the  start  of  the  tenancy.  
+
+# Allowable General Adjustment (“AGA”) of Rent  
+* The  Base  Rent  can  be  adjusted  on  an  annual  basis  with  a  rent  increase  as  determined  by  the  Rental  Housing  Committee  before  June  30  of  each  year, calculated based on the annual change of the CPI.  
+* CPI  is  the  Consumer  Price  Index  of  all  urban  consumers,  all  items,  San  Francisco,  Oakland, San Jose region as published by US Dept. of Labor.
+* Landlords  may  increase  the  rent  with  this  percentage  upon  proper  written  notice  to tenants.  
+
+# Individual Petition Process for Rent Adjustment  
+Landlords and tenants may petition for an upward or downward rent adjustment in the following cases:  
+A landlord can file a petition for upward rent adjustment in order to:  
+*Guarantee a fair return.
+
+A tenant can file a petition for downward rent adjustment in the following instances:  
+* A failure to maintain the rental premises in habitable condition  
+* A decrease in housing services or maintenance  
+* Rent in excess of lawful rent as authorized by CSFRA  
+
+# Banking  
+Banking of allowable rent increases is allowed to a maximum of 10% annual increase.  
+
+# Vacancy Decontrol  
+The initial rent for new tenants may be set at market rate.  
+
+# Just Cause Evictions  
+Termination notices are only permitted for one of the following nine reasons: 1. Failure to pay rent; 2. Breach of lease; 3. Nuisance; 4. Criminal activities; 5. Failure to give access; 6. Temporary   vacancy   due   to   necessary/substantial   repairs;   7. Owner   move-in; 8. Withdrawal of units from rental market or 9. Demolition.  
+
+A  new  “Written  Notice  to  Cease”  is  introduced  for  causes  2-5  to  give  tenants  the  opportunity  to  cure  any  alleged  violation  or  problem,  prior  to  service  of  a  Notice  of  Termination.  
+
+For temporary  vacancies  due  to  necessary  repairs,  owner  move-in,  withdrawal  of  units  from the rental market and demolition, tenants are eligible for tenant relocation assistance if their household  income  does  not  exceed  120% median  household  income  for  Santa  Clara  County  as  adjusted  for  household  size  according  to  the  United  States  Department  of  Housing  and  Urban  Development.  Tenants who  are  evicted  for  these  particular  reasons also  have  a  right  of  first  return  if  their  unit is  returned  to  market  by  current  or  successor landlord. 
+
+# Rental Housing Committee
+The  CSFRA  establishes  a  Rental  Housing  Committee  consisting  of  5  members  and  one  alternate member.  
+The Rental Housing Committee’s duties include:  
+* Set rent at fair and equitable levels
+* Establish Rules and Regulations 
+* Determine Annual General Rent Adjustment 
+* Appoint Hearing Officers 
+* Establish Budget for CSFRA implementation 
+* Hold Public Hearings 
+* Conduct studies, surveys, investigations, hearings 
+* Report periodically to City Council 
+* Publicize Program 
+* Establish schedule of Penalties 
+* Pursue Civil Remedies with City Council approval 
+* Intervene in Litigation with City Council approval 
+* Administer withdrawal process for removal of rental units  
+
+The CSFRA leaves room for interpretation. The Rental Housing Committee is tasked with setting policy in such cases. Examples are:  
+* The  applicability  of  the  CSFRA  for  e.g.  mobile  homes,  multiple  duplexes  and  cottages on one parcel, partly rebuilt multi-family apartment complexes.  
+* What is the relationship between the RHC, the City, CAO and Staff?
+
+# CONSIDERATION OF A PUBLIC INPUT PROCESS OF RULEMAKING  
+Over  the  next  several  months,  the  RHC  will  be  considering  and  adopting  rules  and  regulations  to  implement  the  CSFRA.  The  RHC  will  want  to  consider  the  input  of  theparties  impacted  by  the  regulations  as  part  of  its  rule  making  process.  The  regulations  will  vary  in  terms  of  complexity  and  perhaps  even  interest  to  the  public.  The  RHC  can  consider a number of options to solicit public input:  
+
+1. A  public  input  opportunity  is  provided  at  each  of  the  scheduled  RHC  meetings  on  each of the agenda items. This is the public input that is provided in accordance with the Brown Act.  
+2. Establish  separate  stakeholder  meetings  for  certain  high  profile  agenda  items,  before  discussing  them  in  a  Committee  meeting,  so  the  outcome  of  these  stakeholder  meetings  can  be  summarized  by  staff  and  incorporated  into  the  staff  report  for  the  agenda item.  
+3. Establish a review and comment process whereby a particular proposed regulation is introduced  in  one  committee  meeting,  time  is  allowed  for  written  comments  on  the  proposed  regulation  following  the  meeting and  the  Committee  can  consider  the  comments and the regulation at its next meeting.  
+
+# REQUESTED DIRECTION:  
+Staff seeks direction from the Committee regarding its preferred public input process.  
+
+
+***
+Last updated on 6/14/2017  
+Disclaimer: This is not the official site for information on Mountain View's Rental Housing Committee. It was merely copied from [Mountain View's Rental Housing Committee webpage](http://mountainview.gov/council/rental_housing_committee/default.asp). This site simply converts the pdfs into html to allow for a more accessible view.  
