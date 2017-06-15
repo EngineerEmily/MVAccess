@@ -35,17 +35,19 @@ The first meeting of the Rental Housing Committee for thThe express purpose of t
 # What Rental Units are covered under the CSFRA:  
 
 | First Certificate of Occupancy  |  Rent Increases | Just Cause  |  Base Rent (Rent Roll Back) |
-|---|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-  
-| ----- | ----- | ----- | ----- |  
+|---|---|---|---| 
 | Before Feb. 1, 1995 | Yes | Yes | Yes |  
 | Between Feb. 1, 1995 – April 5, 2017 | No | Yes | No |  
 | After April 5, 2017 | No | No | No |  
 
-Exempt: Single Family Homes, Condominiums, Companion Units, Duplexes, Units in hotels, motels, etc., rented out for less than 30 days, Units in hospitals, medical care facilities, dormitories, etc., Government or subsidized rental units 
+Exempt: 
+* Single Family Homes 
+* Condominiums 
+* Companion Units 
+* Duplexes 
+* Units in hotels, motels, etc. rented out for less than 30 days 
+* Units in hospitals, medical care facilities, dormitories, etc. 
+* Government or subsidized rental units 
 
 # Base Rent  
 Base  Rent  is  determined  as  the  rent  amount  in  effect  on  October  19,  2015.  If  the  tenancy  started  after  October  19,  2015  Base  Rent  is  the  initial  rent  amount  at  the  start  of  the  tenancy.  
