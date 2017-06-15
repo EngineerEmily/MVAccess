@@ -10,14 +10,15 @@
 # INTRODUCTION & BACKGROUND  
 The first meeting of the Rental Housing Committee for the Community Stabilization and Fair Rent Act, is scheduled for Monday May 8, 2017 at 7:00 PM. Staff recommends the Rental Housing Committee establish its meeting schedule at the first meeting and recommends regular meetings take place on those Mondays listed below and the meetings will start at 7:00 PM. The following regular meeting dates are proposed for the Rental Housing Committee to convene from May to July 2017:
 
-# PROPOSED MEETING DATE SCHEDULE: 
-| --- | --- | 
-| Monday, May 8, 2017 | 7 PM  |
-| Monday, May 22, 2017 | 8 PM (after Landlord workshop)  |
-| Thursday, June 8, 2017 | 7 PM (Monday June 5 was unavailable for most Committee members)  |
-| Monday, June 19, 2017 | 7 PM  |
-| Monday, July 10, 2017 | 7 PM  |
-| Monday, July 24, 2017 | 7 PM  |
+# PROPOSED MEETING DATE SCHEDULE:  
+
+| --- | --- |  
+| Monday, May 8, 2017 | 7 PM  |  
+| Monday, May 22, 2017 | 8 PM (after Landlord workshop)  |  
+| Thursday, June 8, 2017 | 7 PM (Monday June 5 was unavailable for most Committee members)  |  
+| Monday, June 19, 2017 | 7 PM  |  
+| Monday, July 10, 2017 | 7 PM  |  
+| Monday, July 24, 2017 | 7 PM  |  
 
 The RHC can schedule additional meetings, either as regular or special meetings.  
 
