@@ -37,6 +37,11 @@ function googleTranslateElementInit() {
 | 5/8 | To approve a Resolution of the Rental Housing Committee of Mountain View establishing a meeting Schedule for the Period of May through December 2017 | Yes | **Yes** | *Yes* | Yes | Yes |  
 | 5/8 | To approve a RHC work plan both in terms of content and time line. | **Yes** | Yes | Yes | *Yes* | Yes |  
 | 5/8 | To approve the ongoing Community Outreach and Education Plan and/or provide further direction to staff to implement additional/different outreach efforts | **Yes** | Yes | Yes | *Yes* | Yes |  
+| 5/22 | To approve the minutes for May 8, 2017 RHC Meeting. | **Yes** | Yes | Yes | *Yes* | Yes |  
+| 5/22 | To adopt a Resolution of an Annual General Adjustment of rent for 2017 of 3.4% | Yes | *Yes* | Yes | **Yes** | Yes |  
+| 5/22 | To consider agendizing an Annual General Adjustment of Rent for 2016 in the next meeting. | *Yes* | No | Yes | **Yes** | Yes |  
+| 5/22 | To adopt a Resolution establishing the Rules of Conduct for Rental Housing Committee Meetings. | Yes | **Yes** | Yes | *Yes* | Yes |  
+
 
 
 ***
