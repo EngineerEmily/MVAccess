@@ -16,6 +16,7 @@ function googleTranslateElementInit() {
                 
 
 ### Agendas / Staff Reports - Most recent decending
+[June 19, 2017](agenda/06192017)
 [June 8, 2017](agenda/06082017)  
 [May 22, 2017](agenda/05222017)  
 [May 8, 2017](agenda/05082017)  
