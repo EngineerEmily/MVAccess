@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to MV Access!  
 
-You can use the [editor on GitHub](https://github.com/EngineerEmily/MVAccess/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In November 2016, Mountain View voters passed Measure V also known as the Community Stabilization and Fair Rent Act (CSFRA). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Rental Housing Committee (RHC) is established by the Community Stabilization and Fair Rent Act, and consists of five members and one alternate member.  
 
-### Markdown
+Pursuant to the CSFRA, the Committee’s powers and duties include:  
+- Setting Rents at fair and equitable levels.  
+- Establish rules and regulations for administration and enforcement of the CSFRA.  
+- Determine and publicize the Annual General Adjustment.  
+- Appoint Hearing Officers to conduct hearings on Petitions for individual Rent Adjustments.  
+- Adjudicate petitions and issue decisions with orders for appropriate relief.  
+- Administer oaths and affirmations and subpoena witnesses and relevant documents.  
+- Establish a budget.  
+- Administer the withdrawal process for the removal of Rental Units from the rental housing market.  
+- Hold public hearings.  
+- Conduct studies, surveys, investigations and hearings.  
+- Report periodically to City Council.  
+- Publicize the provisions of the CSFRA.  
+- Establish a schedule of Penalties for non-compliance.  
+- Pursue civil remedies in courts of appropriate jurisdiction, subject to City Council approval.  
+- Intervene as an interested party in litigation with respect to Covered Rental Units, subject to City Council approval.  
+- Any other duties necessary to administer and enforce the CSFRA.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
 
-```markdown
-Syntax highlighted code block
+During a meeting of Mountain View's Rental Housing Committee meeting, a person spoke up during public comment. He noted that downloading the pdfs from the city website was: 
+1. Difficult to find  
+2. Difficult to read on a phone  
+3. Lacking options for spanish speakers  
 
-# Header 1
-## Header 2
-### Header 3
+Unfortunately, there is so much that needs to get done with this inagural committee that staff does not have the resources to convert these pdfs to mobile responsive html, so I decided to make a website that contains all the pdfs in html format. I also added a google translator function to allow ESL residents be informed to the decisions that the RHC is making.  
 
-- Bulleted
-- List
+In the future, I hope to turn this into a progressive web app that will allow push notifications whenever a new agenda is uploaded.  
 
-1. Numbered
-2. List
+Please let me know if you have any questions, comments or concerns about this website. You can contact me at [RHC@emily.tech](mailto:rhc@emilt.tech).  
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EngineerEmily/MVAccess/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***  
+This website is hosted on Github Pages and uses the Jekyll theme: Minimal. The individual files are in Markdown. Feel free to send any pull requests to imporve the website.  
