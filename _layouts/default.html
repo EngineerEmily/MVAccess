@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1><a href="https://engineeremily.github.io/MVAccess/">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -45,10 +45,11 @@ function googleTranslateElementInit() {
 
       </section>
       <footer>
+	  <small>Disclaimer: This is not the official site for information on Mountain View's Rental Housing Committee. It was merely copied from [Mountain View's Rental Housing Committee webpage](http://mountainview.gov/council/rental_housing_committee/default.asp). This site simply converts the pdfs into html to allow for a more accessible view.</small>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by originally updated from <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
