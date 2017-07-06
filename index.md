@@ -1,4 +1,5 @@
 ### Agendas / Staff Reports - Most recent decending
+[July 10, 2017](agenda/07102017)  
 [June 19, 2017](agenda/06192017)  
 [June 8, 2017](agenda/06082017)  
 [May 22, 2017](agenda/05222017)  
