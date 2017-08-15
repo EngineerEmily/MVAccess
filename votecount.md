@@ -31,7 +31,7 @@
 | 6/19 | Direct staff bring back a revised regulation to move agenda item: Oral Communications to follow agenda item: New Business | **Yes** | No | No | No | No |  
 | 7/10 | To approve the mintutes for June 19, 2017 RHC meeting | **Yes** | Yes | Yes | Yes | *Yes* |  
 | 7/10 | To continue Item 6.1, Adoption of Regulations for Petition & Hearing Process and Fair Return Standard, to the July 24, 2017 RHC meeting. | **Yes** | Yes | Yes | *Yes* | No |  
-| 7/10 | To continue Item 7.1, Reimbursement of Funding Advanced by the City to Implement the CSFRA, to the July 24, 2017 RHC meeting. | **Yes** | Yes | Yes | *Yes | No |  
+| 7/10 | To continue Item 7.1, Reimbursement of Funding Advanced by the City to Implement the CSFRA, to the July 24, 2017 RHC meeting. | **Yes** | Yes | Yes | *Yes* | No |  
 
 
 
