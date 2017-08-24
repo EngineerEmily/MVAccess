@@ -1,4 +1,5 @@
 ### Agendas / Staff Reports - Most recent decending
+[August 28, 2017](agenda/08282017)  
 [July 24, 2017](agenda/07242017)  
 [July 10, 2017](agenda/07102017)  
 [June 19, 2017](agenda/06192017)  
@@ -8,7 +9,6 @@
 
 ### Upcoming Meetings
 Meetings are held at City Hall at 7pm  
-Monday, July 24, 2017  
 Monday, August 28, 2017  
 Monday, September 11, 2017  
 Monday, September 25, 2017  
