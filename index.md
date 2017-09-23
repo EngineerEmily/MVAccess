@@ -1,4 +1,5 @@
 ### Agendas / Staff Reports - Most recent decending
+[September 11, 2017 ](agenda/09112017)  
 [August 28, 2017](agenda/08282017)  
 [July 24, 2017](agenda/07242017)  
 [July 10, 2017](agenda/07102017)  
@@ -8,10 +9,7 @@
 [May 8, 2017](agenda/05082017)  
 
 ### Upcoming Meetings
-Meetings are held at City Hall at 7pm  
-Monday, August 28, 2017  
-Monday, September 11, 2017  
-Monday, September 25, 2017  
+Meetings are held at City Hall at 7pm   
 Monday, October 9, 2017  
 Monday, October 23, 2017  
 Monday, November 6, 2017  
@@ -29,5 +27,5 @@ ATT: Rental Housing Committee
 Mountain View, CA 94041  
 
 ***
-Last updated on 6/30/2017  
+Last updated on 9/22/2017  
 
